@@ -12,3 +12,9 @@ please run python code and here is the detail operation:
 
 
 you can check the test json file data in it in order to test our code.
+
+Implementation video is list below:
+
+Demo1Algorithm: https://www.youtube.com/watch?v=JPQU4dbd38Y
+
+database_manipulation: https://www.youtube.com/watch?v=32RzDslpSqU
