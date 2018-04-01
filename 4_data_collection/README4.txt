@@ -4,3 +4,6 @@ We distributed some part of requests in order to show in demo.
 
 For Data collection, Since we have Firebase hosting, there is no local file
 and also the scripts to collect data are in part of android app source code.
+
+https://www.youtube.com/watch?v=1EgXA6IHxOo
+This video will show how we collect data
