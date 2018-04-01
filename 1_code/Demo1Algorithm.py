@@ -63,14 +63,14 @@ for index in range(len(y)):
         A = 5
     B.append(A)
 
-#get the hour range which is 1 hour in this case
+# get the hour range which is 1 hour in this case
 
-    print "Time hour from:", index,': 00',' to ',index,': 59'
+    print "Time hour from:", index, ': 00', ' to ', index, ': 59'
 
-#get the bus dispatch rate from the B[index] we defined previously, to get the B[index]
-#we use get length function
+# get the bus dispatch rate from the B[index] we defined previously, to get the B[index]
+# we use get length function
 
-    print "Arranged bus dispatch rate : ", 'Every',B[index], 'minutes' "\n"
+    print "Arranged bus dispatch rate : ", 'Every', B[index], 'minutes' "\n"
 
 '''plot a bar chart using matplotlibrary'''
 
@@ -80,6 +80,6 @@ C = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12,
 plt.bar(C, B, alpha=0.9, width=1, facecolor='lightskyblue',
         edgecolor='white', label='one', lw=1)
 '''save the image as png format in the content folder'''
-plt.savefig('Requests_Of_2500Students.png')
+plt.savefig('Requests_Of_10000Students.png')
 
 plt.show()
